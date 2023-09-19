@@ -1,0 +1,8 @@
+name: AdminTools
+author: skyss0fly
+# collaborators: None
+main: skyss0fly\AdminPlus\Main
+api: 5.0.0
+version: 0.01
+permissions:
+AdminTools.Utilise
